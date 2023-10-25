@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       {/* Renderizamos el componente TopBar */}
-      <TopBar />
+      {/*<TopBar />*/}
       {/*<PokeList />*/}
       {/*<BottomBar />*/}
     </div>
